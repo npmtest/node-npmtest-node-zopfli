@@ -1,105 +1,105 @@
 <svg height="1630" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1630" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 07:52:29 +0000  2646832 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 07:52:29 +0000      411 bytes  History.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 07:52:29 +0000     1083 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 07:52:29 +0000     4717 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 07:52:29 +0000     1642 bytes  bin/zopfli</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 07:52:29 +0000     2092 bytes  bin/zopflipng</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 07:52:29 +0000     3039 bytes  binding.gyp</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 07:52:29 +0000    13171 bytes  build/Makefile</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 07:52:29 +0000        0 bytes  build/Release/obj.target/action_after_build.stam\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 05:33:43 +0000  2646951 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 05:33:43 +0000      411 bytes  History.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 05:33:43 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 05:33:43 +0000     4717 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 05:33:43 +0000     1642 bytes  bin/zopfli</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 05:33:43 +0000     2092 bytes  bin/zopflipng</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 05:33:43 +0000     3039 bytes  binding.gyp</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 05:33:43 +0000    13171 bytes  build/Makefile</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 05:33:43 +0000        0 bytes  build/Release/obj.target/action_after_build.stam\</tspan>
 <tspan x="10" y="170">p</tspan>
-<tspan x="10" y="186">  9.  2017-04-18 07:52:29 +0000   253338 bytes  build/Release/obj.target/zopfli.node</tspan>
-<tspan x="10" y="202"> 10.  2017-04-18 07:52:29 +0000    25376 bytes  build/Release/obj.target/zopfli/src/png/zopflipn\</tspan>
+<tspan x="10" y="186">  9.  2017-04-25 05:33:43 +0000   253338 bytes  build/Release/obj.target/zopfli.node</tspan>
+<tspan x="10" y="202"> 10.  2017-04-25 05:33:43 +0000    25376 bytes  build/Release/obj.target/zopfli/src/png/zopflipn\</tspan>
 <tspan x="10" y="218">g.o</tspan>
-<tspan x="10" y="234"> 11.  2017-04-18 07:52:29 +0000    37856 bytes  build/Release/obj.target/zopfli/src/zopfli-bindi\</tspan>
+<tspan x="10" y="234"> 11.  2017-04-25 05:33:43 +0000    37856 bytes  build/Release/obj.target/zopfli/src/zopfli-bindi\</tspan>
 <tspan x="10" y="250">ng.o</tspan>
-<tspan x="10" y="266"> 12.  2017-04-18 07:52:29 +0000     7984 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="266"> 12.  2017-04-25 05:33:43 +0000     7984 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="282">i/blocksplitter.o</tspan>
-<tspan x="10" y="298"> 13.  2017-04-18 07:52:29 +0000     4056 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="298"> 13.  2017-04-25 05:33:43 +0000     4056 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="314">i/cache.o</tspan>
-<tspan x="10" y="330"> 14.  2017-04-18 07:52:29 +0000    24040 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="330"> 14.  2017-04-25 05:33:43 +0000    24040 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="346">i/deflate.o</tspan>
-<tspan x="10" y="362"> 15.  2017-04-18 07:52:29 +0000     6936 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="362"> 15.  2017-04-25 05:33:43 +0000     6936 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="378">i/gzip_container.o</tspan>
-<tspan x="10" y="394"> 16.  2017-04-18 07:52:29 +0000     3016 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="394"> 16.  2017-04-25 05:33:43 +0000     3016 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="410">i/hash.o</tspan>
-<tspan x="10" y="426"> 17.  2017-04-18 07:52:29 +0000     3480 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="426"> 17.  2017-04-25 05:33:43 +0000     3480 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="442">i/katajainen.o</tspan>
-<tspan x="10" y="458"> 18.  2017-04-18 07:52:29 +0000    15584 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="458"> 18.  2017-04-25 05:33:43 +0000    15584 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="474">i/lz77.o</tspan>
-<tspan x="10" y="490"> 19.  2017-04-18 07:52:29 +0000    16000 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="490"> 19.  2017-04-25 05:33:43 +0000    16000 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="506">i/squeeze.o</tspan>
-<tspan x="10" y="522"> 20.  2017-04-18 07:52:29 +0000     3936 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="522"> 20.  2017-04-25 05:33:43 +0000     3936 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="538">i/tree.o</tspan>
-<tspan x="10" y="554"> 21.  2017-04-18 07:52:29 +0000     1280 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="554"> 21.  2017-04-25 05:33:43 +0000     1280 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="570">i/util.o</tspan>
-<tspan x="10" y="586"> 22.  2017-04-18 07:52:29 +0000     3176 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="586"> 22.  2017-04-25 05:33:43 +0000     3176 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="602">i/zlib_container.o</tspan>
-<tspan x="10" y="618"> 23.  2017-04-18 07:52:29 +0000     2280 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="618"> 23.  2017-04-25 05:33:43 +0000     2280 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="634">i/zopfli_lib.o</tspan>
-<tspan x="10" y="650"> 24.  2017-04-18 07:52:29 +0000   106448 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="650"> 24.  2017-04-25 05:33:43 +0000   106448 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="666">ipng/lodepng/lodepng.o</tspan>
-<tspan x="10" y="682"> 25.  2017-04-18 07:52:29 +0000    48000 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="682"> 25.  2017-04-25 05:33:43 +0000    48000 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="698">ipng/lodepng/lodepng_util.o</tspan>
-<tspan x="10" y="714"> 26.  2017-04-18 07:52:29 +0000    27464 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
+<tspan x="10" y="714"> 26.  2017-04-25 05:33:43 +0000    27464 bytes  build/Release/obj.target/zopfli/zopfli/src/zopfl\</tspan>
 <tspan x="10" y="730">ipng/zopflipng_lib.o</tspan>
-<tspan x="10" y="746"> 27.  2017-04-18 07:52:29 +0000   253338 bytes  build/Release/zopfli.node</tspan>
-<tspan x="10" y="762"> 28.  2017-04-18 07:52:29 +0000     1423 bytes  build/action_after_build.target.mk</tspan>
-<tspan x="10" y="778"> 29.  2017-04-18 07:52:29 +0000      133 bytes  build/binding.Makefile</tspan>
-<tspan x="10" y="794"> 30.  2017-04-18 07:52:29 +0000     5121 bytes  build/config.gypi</tspan>
-<tspan x="10" y="810"> 31.  2017-04-18 07:52:29 +0000     5078 bytes  build/zopfli.target.mk</tspan>
-<tspan x="10" y="826"> 32.  2017-04-18 07:52:29 +0000   234016 bytes  lib/binding/node-v42-darwin-x64/zopfli.node</tspan>
-<tspan x="10" y="842"> 33.  2017-04-18 07:52:29 +0000   226312 bytes  lib/binding/node-v45-darwin-x64/zopfli.node</tspan>
-<tspan x="10" y="858"> 34.  2017-04-18 07:52:29 +0000   234540 bytes  lib/binding/node-v46-darwin-x64/zopfli.node</tspan>
-<tspan x="10" y="874"> 35.  2017-04-18 07:52:29 +0000   242616 bytes  lib/binding/node-v48-darwin-x64/zopfli.node</tspan>
-<tspan x="10" y="890"> 36.  2017-04-18 07:52:29 +0000   253338 bytes  lib/binding/node-v48-linux-x64/zopfli.node</tspan>
-<tspan x="10" y="906"> 37.  2017-04-18 07:52:29 +0000     2753 bytes  lib/zopfli.js</tspan>
-<tspan x="10" y="922"> 38.  2017-04-18 07:52:29 +0000     3721 bytes  package.json</tspan>
-<tspan x="10" y="938"> 39.  2017-04-18 07:52:29 +0000     6939 bytes  src/png/zopflipng.cc</tspan>
-<tspan x="10" y="954"> 40.  2017-04-18 07:52:29 +0000      105 bytes  src/png/zopflipng.h</tspan>
-<tspan x="10" y="970"> 41.  2017-04-18 07:52:29 +0000     7865 bytes  src/zopfli-binding.cc</tspan>
-<tspan x="10" y="986"> 42.  2017-04-18 07:52:29 +0000      226 bytes  src/zopfli-binding.h</tspan>
-<tspan x="10" y="1002"> 43.  2017-04-18 07:52:29 +0000     1395 bytes  zopfli/CONTRIBUTING.md</tspan>
-<tspan x="10" y="1018"> 44.  2017-04-18 07:52:29 +0000      137 bytes  zopfli/CONTRIBUTORS</tspan>
-<tspan x="10" y="1034"> 45.  2017-04-18 07:52:29 +0000    11341 bytes  zopfli/COPYING</tspan>
-<tspan x="10" y="1050"> 46.  2017-04-18 07:52:29 +0000     1575 bytes  zopfli/Makefile</tspan>
-<tspan x="10" y="1066"> 47.  2017-04-18 07:52:29 +0000     1857 bytes  zopfli/README</tspan>
-<tspan x="10" y="1082"> 48.  2017-04-18 07:52:29 +0000     2997 bytes  zopfli/README.zopflipng</tspan>
-<tspan x="10" y="1098"> 49.  2017-04-18 07:52:29 +0000     9285 bytes  zopfli/src/zopfli/blocksplitter.c</tspan>
-<tspan x="10" y="1114"> 50.  2017-04-18 07:52:29 +0000     2656 bytes  zopfli/src/zopfli/blocksplitter.h</tspan>
-<tspan x="10" y="1130"> 51.  2017-04-18 07:52:29 +0000     3913 bytes  zopfli/src/zopfli/cache.c</tspan>
-<tspan x="10" y="1146"> 52.  2017-04-18 07:52:29 +0000     2256 bytes  zopfli/src/zopfli/cache.h</tspan>
-<tspan x="10" y="1162"> 53.  2017-04-18 07:52:29 +0000    32940 bytes  zopfli/src/zopfli/deflate.c</tspan>
-<tspan x="10" y="1178"> 54.  2017-04-18 07:52:29 +0000     3099 bytes  zopfli/src/zopfli/deflate.h</tspan>
-<tspan x="10" y="1194"> 55.  2017-04-18 07:52:29 +0000     6208 bytes  zopfli/src/zopfli/gzip_container.c</tspan>
-<tspan x="10" y="1210"> 56.  2017-04-18 07:52:29 +0000     1402 bytes  zopfli/src/zopfli/gzip_container.h</tspan>
-<tspan x="10" y="1226"> 57.  2017-04-18 07:52:29 +0000     3958 bytes  zopfli/src/zopfli/hash.c</tspan>
-<tspan x="10" y="1242"> 58.  2017-04-18 07:52:29 +0000     2377 bytes  zopfli/src/zopfli/hash.h</tspan>
-<tspan x="10" y="1258"> 59.  2017-04-18 07:52:29 +0000     7993 bytes  zopfli/src/zopfli/katajainen.c</tspan>
-<tspan x="10" y="1274"> 60.  2017-04-18 07:52:29 +0000     1497 bytes  zopfli/src/zopfli/katajainen.h</tspan>
-<tspan x="10" y="1290"> 61.  2017-04-18 07:52:29 +0000    20577 bytes  zopfli/src/zopfli/lz77.c</tspan>
-<tspan x="10" y="1306"> 62.  2017-04-18 07:52:29 +0000     5645 bytes  zopfli/src/zopfli/lz77.h</tspan>
-<tspan x="10" y="1322"> 63.  2017-04-18 07:52:29 +0000    18844 bytes  zopfli/src/zopfli/squeeze.c</tspan>
-<tspan x="10" y="1338"> 64.  2017-04-18 07:52:29 +0000     2217 bytes  zopfli/src/zopfli/squeeze.h</tspan>
-<tspan x="10" y="1354"> 65.  2017-04-18 07:52:29 +0000     8654 bytes  zopfli/src/zopfli/symbols.h</tspan>
-<tspan x="10" y="1370"> 66.  2017-04-18 07:52:29 +0000     3375 bytes  zopfli/src/zopfli/tree.c</tspan>
-<tspan x="10" y="1386"> 67.  2017-04-18 07:52:29 +0000     1677 bytes  zopfli/src/zopfli/tree.h</tspan>
-<tspan x="10" y="1402"> 68.  2017-04-18 07:52:29 +0000     1023 bytes  zopfli/src/zopfli/util.c</tspan>
-<tspan x="10" y="1418"> 69.  2017-04-18 07:52:29 +0000     5482 bytes  zopfli/src/zopfli/util.h</tspan>
-<tspan x="10" y="1434"> 70.  2017-04-18 07:52:29 +0000     2415 bytes  zopfli/src/zopfli/zlib_container.c</tspan>
-<tspan x="10" y="1450"> 71.  2017-04-18 07:52:29 +0000     1402 bytes  zopfli/src/zopfli/zlib_container.h</tspan>
-<tspan x="10" y="1466"> 72.  2017-04-18 07:52:29 +0000     2536 bytes  zopfli/src/zopfli/zopfli.h</tspan>
-<tspan x="10" y="1482"> 73.  2017-04-18 07:52:29 +0000     6406 bytes  zopfli/src/zopfli/zopfli_bin.c</tspan>
-<tspan x="10" y="1498"> 74.  2017-04-18 07:52:29 +0000     1428 bytes  zopfli/src/zopfli/zopfli_lib.c</tspan>
-<tspan x="10" y="1514"> 75.  2017-04-18 07:52:29 +0000   219734 bytes  zopfli/src/zopflipng/lodepng/lodepng.cpp</tspan>
-<tspan x="10" y="1530"> 76.  2017-04-18 07:52:29 +0000    81950 bytes  zopfli/src/zopflipng/lodepng/lodepng.h</tspan>
-<tspan x="10" y="1546"> 77.  2017-04-18 07:52:29 +0000    26408 bytes  zopfli/src/zopflipng/lodepng/lodepng_util.cpp</tspan>
-<tspan x="10" y="1562"> 78.  2017-04-18 07:52:29 +0000     6024 bytes  zopfli/src/zopflipng/lodepng/lodepng_util.h</tspan>
-<tspan x="10" y="1578"> 79.  2017-04-18 07:52:29 +0000    18054 bytes  zopfli/src/zopflipng/zopflipng_bin.cc</tspan>
-<tspan x="10" y="1594"> 80.  2017-04-18 07:52:29 +0000    18708 bytes  zopfli/src/zopflipng/zopflipng_lib.cc</tspan>
-<tspan x="10" y="1610"> 81.  2017-04-18 07:52:29 +0000     3458 bytes  zopfli/src/zopflipng/zopflipng_lib.h</tspan>
+<tspan x="10" y="746"> 27.  2017-04-25 05:33:43 +0000   253338 bytes  build/Release/zopfli.node</tspan>
+<tspan x="10" y="762"> 28.  2017-04-25 05:33:43 +0000     1423 bytes  build/action_after_build.target.mk</tspan>
+<tspan x="10" y="778"> 29.  2017-04-25 05:33:43 +0000      133 bytes  build/binding.Makefile</tspan>
+<tspan x="10" y="794"> 30.  2017-04-25 05:33:43 +0000     5240 bytes  build/config.gypi</tspan>
+<tspan x="10" y="810"> 31.  2017-04-25 05:33:43 +0000     5078 bytes  build/zopfli.target.mk</tspan>
+<tspan x="10" y="826"> 32.  2017-04-25 05:33:43 +0000   234016 bytes  lib/binding/node-v42-darwin-x64/zopfli.node</tspan>
+<tspan x="10" y="842"> 33.  2017-04-25 05:33:43 +0000   226312 bytes  lib/binding/node-v45-darwin-x64/zopfli.node</tspan>
+<tspan x="10" y="858"> 34.  2017-04-25 05:33:43 +0000   234540 bytes  lib/binding/node-v46-darwin-x64/zopfli.node</tspan>
+<tspan x="10" y="874"> 35.  2017-04-25 05:33:43 +0000   242616 bytes  lib/binding/node-v48-darwin-x64/zopfli.node</tspan>
+<tspan x="10" y="890"> 36.  2017-04-25 05:33:43 +0000   253338 bytes  lib/binding/node-v48-linux-x64/zopfli.node</tspan>
+<tspan x="10" y="906"> 37.  2017-04-25 05:33:43 +0000     2753 bytes  lib/zopfli.js</tspan>
+<tspan x="10" y="922"> 38.  2017-04-25 05:33:43 +0000     3721 bytes  package.json</tspan>
+<tspan x="10" y="938"> 39.  2017-04-25 05:33:43 +0000     6939 bytes  src/png/zopflipng.cc</tspan>
+<tspan x="10" y="954"> 40.  2017-04-25 05:33:43 +0000      105 bytes  src/png/zopflipng.h</tspan>
+<tspan x="10" y="970"> 41.  2017-04-25 05:33:43 +0000     7865 bytes  src/zopfli-binding.cc</tspan>
+<tspan x="10" y="986"> 42.  2017-04-25 05:33:43 +0000      226 bytes  src/zopfli-binding.h</tspan>
+<tspan x="10" y="1002"> 43.  2017-04-25 05:33:43 +0000     1395 bytes  zopfli/CONTRIBUTING.md</tspan>
+<tspan x="10" y="1018"> 44.  2017-04-25 05:33:43 +0000      137 bytes  zopfli/CONTRIBUTORS</tspan>
+<tspan x="10" y="1034"> 45.  2017-04-25 05:33:43 +0000    11341 bytes  zopfli/COPYING</tspan>
+<tspan x="10" y="1050"> 46.  2017-04-25 05:33:43 +0000     1575 bytes  zopfli/Makefile</tspan>
+<tspan x="10" y="1066"> 47.  2017-04-25 05:33:43 +0000     1857 bytes  zopfli/README</tspan>
+<tspan x="10" y="1082"> 48.  2017-04-25 05:33:43 +0000     2997 bytes  zopfli/README.zopflipng</tspan>
+<tspan x="10" y="1098"> 49.  2017-04-25 05:33:43 +0000     9285 bytes  zopfli/src/zopfli/blocksplitter.c</tspan>
+<tspan x="10" y="1114"> 50.  2017-04-25 05:33:43 +0000     2656 bytes  zopfli/src/zopfli/blocksplitter.h</tspan>
+<tspan x="10" y="1130"> 51.  2017-04-25 05:33:43 +0000     3913 bytes  zopfli/src/zopfli/cache.c</tspan>
+<tspan x="10" y="1146"> 52.  2017-04-25 05:33:43 +0000     2256 bytes  zopfli/src/zopfli/cache.h</tspan>
+<tspan x="10" y="1162"> 53.  2017-04-25 05:33:43 +0000    32940 bytes  zopfli/src/zopfli/deflate.c</tspan>
+<tspan x="10" y="1178"> 54.  2017-04-25 05:33:43 +0000     3099 bytes  zopfli/src/zopfli/deflate.h</tspan>
+<tspan x="10" y="1194"> 55.  2017-04-25 05:33:43 +0000     6208 bytes  zopfli/src/zopfli/gzip_container.c</tspan>
+<tspan x="10" y="1210"> 56.  2017-04-25 05:33:43 +0000     1402 bytes  zopfli/src/zopfli/gzip_container.h</tspan>
+<tspan x="10" y="1226"> 57.  2017-04-25 05:33:43 +0000     3958 bytes  zopfli/src/zopfli/hash.c</tspan>
+<tspan x="10" y="1242"> 58.  2017-04-25 05:33:43 +0000     2377 bytes  zopfli/src/zopfli/hash.h</tspan>
+<tspan x="10" y="1258"> 59.  2017-04-25 05:33:43 +0000     7993 bytes  zopfli/src/zopfli/katajainen.c</tspan>
+<tspan x="10" y="1274"> 60.  2017-04-25 05:33:43 +0000     1497 bytes  zopfli/src/zopfli/katajainen.h</tspan>
+<tspan x="10" y="1290"> 61.  2017-04-25 05:33:43 +0000    20577 bytes  zopfli/src/zopfli/lz77.c</tspan>
+<tspan x="10" y="1306"> 62.  2017-04-25 05:33:43 +0000     5645 bytes  zopfli/src/zopfli/lz77.h</tspan>
+<tspan x="10" y="1322"> 63.  2017-04-25 05:33:43 +0000    18844 bytes  zopfli/src/zopfli/squeeze.c</tspan>
+<tspan x="10" y="1338"> 64.  2017-04-25 05:33:43 +0000     2217 bytes  zopfli/src/zopfli/squeeze.h</tspan>
+<tspan x="10" y="1354"> 65.  2017-04-25 05:33:43 +0000     8654 bytes  zopfli/src/zopfli/symbols.h</tspan>
+<tspan x="10" y="1370"> 66.  2017-04-25 05:33:43 +0000     3375 bytes  zopfli/src/zopfli/tree.c</tspan>
+<tspan x="10" y="1386"> 67.  2017-04-25 05:33:43 +0000     1677 bytes  zopfli/src/zopfli/tree.h</tspan>
+<tspan x="10" y="1402"> 68.  2017-04-25 05:33:43 +0000     1023 bytes  zopfli/src/zopfli/util.c</tspan>
+<tspan x="10" y="1418"> 69.  2017-04-25 05:33:43 +0000     5482 bytes  zopfli/src/zopfli/util.h</tspan>
+<tspan x="10" y="1434"> 70.  2017-04-25 05:33:43 +0000     2415 bytes  zopfli/src/zopfli/zlib_container.c</tspan>
+<tspan x="10" y="1450"> 71.  2017-04-25 05:33:43 +0000     1402 bytes  zopfli/src/zopfli/zlib_container.h</tspan>
+<tspan x="10" y="1466"> 72.  2017-04-25 05:33:43 +0000     2536 bytes  zopfli/src/zopfli/zopfli.h</tspan>
+<tspan x="10" y="1482"> 73.  2017-04-25 05:33:43 +0000     6406 bytes  zopfli/src/zopfli/zopfli_bin.c</tspan>
+<tspan x="10" y="1498"> 74.  2017-04-25 05:33:43 +0000     1428 bytes  zopfli/src/zopfli/zopfli_lib.c</tspan>
+<tspan x="10" y="1514"> 75.  2017-04-25 05:33:43 +0000   219734 bytes  zopfli/src/zopflipng/lodepng/lodepng.cpp</tspan>
+<tspan x="10" y="1530"> 76.  2017-04-25 05:33:43 +0000    81950 bytes  zopfli/src/zopflipng/lodepng/lodepng.h</tspan>
+<tspan x="10" y="1546"> 77.  2017-04-25 05:33:43 +0000    26408 bytes  zopfli/src/zopflipng/lodepng/lodepng_util.cpp</tspan>
+<tspan x="10" y="1562"> 78.  2017-04-25 05:33:43 +0000     6024 bytes  zopfli/src/zopflipng/lodepng/lodepng_util.h</tspan>
+<tspan x="10" y="1578"> 79.  2017-04-25 05:33:43 +0000    18054 bytes  zopfli/src/zopflipng/zopflipng_bin.cc</tspan>
+<tspan x="10" y="1594"> 80.  2017-04-25 05:33:43 +0000    18708 bytes  zopfli/src/zopflipng/zopflipng_lib.cc</tspan>
+<tspan x="10" y="1610"> 81.  2017-04-25 05:33:43 +0000     3458 bytes  zopfli/src/zopflipng/zopflipng_lib.h</tspan>
 </text>
 </svg>

@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [node-zopfli (v2.0.2)](https://github.com/pierreinglebert/node-zopfli)  [![npm package](https://img.shields.io/npm/v/npmtest-node-zopfli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-zopfli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-zopfli.svg)](https://travis-ci.org/npmtest/node-npmtest-node-zopfli)",
+    "description": "#### basic test coverage for  [node-zopfli (v2.0.2)](https://github.com/pierreinglebert/node-zopfli)  [![npm package](https://img.shields.io/npm/v/npmtest-node-zopfli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-zopfli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-zopfli.svg)](https://travis-ci.org/npmtest/node-npmtest-node-zopfli)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "node-zopfli": "*",

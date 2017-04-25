@@ -1,6 +1,6 @@
 # npmtest-node-zopfli
 
-#### test coverage for  [node-zopfli (v2.0.2)](https://github.com/pierreinglebert/node-zopfli)  [![npm package](https://img.shields.io/npm/v/npmtest-node-zopfli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-zopfli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-zopfli.svg)](https://travis-ci.org/npmtest/node-npmtest-node-zopfli)
+#### basic test coverage for  [node-zopfli (v2.0.2)](https://github.com/pierreinglebert/node-zopfli)  [![npm package](https://img.shields.io/npm/v/npmtest-node-zopfli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-zopfli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-zopfli.svg)](https://travis-ci.org/npmtest/node-npmtest-node-zopfli)
 
 #### Bindings for Zopfli compressing lib. Compress gzip files 5% better than gzip.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-zopfli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-zopfli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-zopfli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-zopfli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-zopfli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-zopfli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-zopfli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-zopfli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-zopfli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-zopfli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-zopfli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-zopfli/build/coverage.html/index.html)
 
